@@ -1,0 +1,12 @@
+# Logs générés (peuvent peser plusieurs Go)
+output/
+
+# Fichiers de logs (exemple réel inclus : ne jamais versionner)
+*.gz
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
